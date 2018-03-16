@@ -1,0 +1,44 @@
+{
+    "title":"EntityCreator",
+    "components": [
+            {
+                "type": "row",
+        		"components":[
+                {
+                    "type": "row",
+                    "components": [
+                        {
+                            "type": "label",
+                            "text": "Title1"
+                        },
+                        {
+                            "type": "button",
+                            "text": "Title2"
+                        }
+                    ]
+                },
+                {
+                    "type": "row",
+                    "components": [
+                        {
+                            "type": "label",
+                            "text": "Title3"
+                        },
+                        {
+                            "type": "button",
+                            "text": "Title4"
+                        }
+                    ]
+                }
+                ]
+            },
+            {
+                "type": "row",
+                "components": [{
+                    "type": "label",
+                    "text": "Title6"
+                }]
+            }
+        ]
+    }
+}
